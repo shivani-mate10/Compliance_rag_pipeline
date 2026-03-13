@@ -1,0 +1,57 @@
+[
+  {
+    "chunk_id": 1,
+    "enhanced_content": "Dummy Compliance Rules for Annual Financial Reports",
+    "metadata": {
+      "original_content": {
+        "raw_text": "Dummy Compliance Rules for Annual Financial Reports",
+        "tables_html": [],
+        "images_base64": []
+      }
+    }
+  },
+  {
+    "chunk_id": 2,
+    "enhanced_content": "Rule 1: Net Profit Calculation\n\nNet Profit must be calculated as: Net Profit = Total Revenue - Total Expenses.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "Rule 1: Net Profit Calculation\n\nNet Profit must be calculated as: Net Profit = Total Revenue - Total Expenses.",
+        "tables_html": [],
+        "images_base64": []
+      }
+    }
+  },
+  {
+    "chunk_id": 3,
+    "enhanced_content": "Rule 2: Currency Format\n\nAll financial values must be reported in Indian Rupees (n). No other currency symbols like $ or €\n\nshould be used.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "Rule 2: Currency Format\n\nAll financial values must be reported in Indian Rupees (n). No other currency symbols like $ or €\n\nshould be used.",
+        "tables_html": [],
+        "images_base64": []
+      }
+    }
+  },
+  {
+    "chunk_id": 4,
+    "enhanced_content": "Rule 3: Required Financial Sections\n\nAnnual reports must clearly include the following sections: Revenue, Expenses, and Net Profit.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "Rule 3: Required Financial Sections\n\nAnnual reports must clearly include the following sections: Revenue, Expenses, and Net Profit.",
+        "tables_html": [],
+        "images_base64": []
+      }
+    }
+  },
+  {
+    "chunk_id": 5,
+    "enhanced_content": "Rule 4: Date Format\n\nAll dates in the report must follow the DD-MM-YYYY format.",
+    "metadata": {
+      "original_content": {
+        "raw_text": "Rule 4: Date Format\n\nAll dates in the report must follow the DD-MM-YYYY format.",
+        "tables_html": [],
+        "images_base64": []
+      }
+    }
+  }
+]

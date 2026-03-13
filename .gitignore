@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+ENV/
+.venv/
+env/
+env.bak/
+/dbv1/
+/dbv2/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+/dbv2/
+/extracted_images/
+
+
